@@ -6,10 +6,10 @@
 <br>
 <br>
 
- ![Progress](https://img.shields.io/badge/Progress-5%25-red?style=flat-square)
+* **Preogress** : ![Progress](https://img.shields.io/badge/Progress-5%25-red?style=flat-square)
 
- <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" style="vertical-align: middle;"> <br>
- <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" style="vertical-align: middle;">
+* **Language** : <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" style="vertical-align: middle;"> <br>
+* **IDE** : <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" style="vertical-align: middle;">
 
 <br>
 <br>
