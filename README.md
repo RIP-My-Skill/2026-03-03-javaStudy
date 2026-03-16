@@ -61,3 +61,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> 데이터 관리(배열) 응용 학습: 달력 생성 로직 및 영화 데이터 검색기 구현
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> Applied Learning of Data Management (Array): Calendar Generation & Movie Search System
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> 配列の応用学習：カレンダー作成、映画情報検索プログラムの実装
+
+### 2026-03-16
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 응용**: 클래스 메서드(`static method`)의 구조 이해 및 실습 문제 풀이
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Application**: Understanding the structure of Class Methods (`static`) and solving practice problems
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java応用**: クラスメソッド(`static method`)の構造理解および練習問題の実装
