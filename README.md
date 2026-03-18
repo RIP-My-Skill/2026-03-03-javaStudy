@@ -66,3 +66,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 응용**: 클래스 메서드(`static method`)의 구조 이해 및 실습 문제 풀이
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Application**: Understanding the structure of Class Methods (`static`) and solving practice problems
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java応用**: クラスメソッド(`static method`)の構造理解および練習問題の実装
+
+### 2026-03-17
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 심화**: `String` 클래스 주요 메서드 및 문자열 배열(`String[]`) 활용, 메서드 구조 총정리
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Deep Dive**: Mastering `String` class methods, `String[]` arrays, and comprehensive review of method structures
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java深化**: `String`クラスの主要メソッド、文字列配列(`String[]`)の活用、およびメソッド構造の総まとめ
