@@ -71,3 +71,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 심화**: `String` 클래스 주요 메서드 및 문자열 배열(`String[]`) 활용, 메서드 구조 총정리
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Deep Dive**: Mastering `String` class methods, `String[]` arrays, and comprehensive review of method structures
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java深化**: `String`クラスの主要メソッド、文字列配列(`String[]`)の活用、およびメソッド構造の総まとめ
+
+### 2026-03-18
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **객체지향(OOP)**: 객체지향 개념 및 변수 종류(인스턴스/클래스/지역 변수) 구분, 변수 초기화 및 객체 활용 실습
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **OOP Basics**: Understanding OOP concepts, distinguishing variable types (Instance/Class/Local), and practicing variable initialization & object usage
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **オブジェクト指向(OOP)**: OOPの概念および変数の種類(インスタンス/クラス/ローカル変数)の区別、変数の初期化とオブジェクト活用の実習
