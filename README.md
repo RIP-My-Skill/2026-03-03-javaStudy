@@ -81,3 +81,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 심화**: 생성자(`Constructor`)를 통한 객체 초기화, 인스턴스 생성 및 메모리 할당, `CallByValue` vs `CallByReference` 개념 정립
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Deep Dive**: Object initialization via Constructors, Instance allocation, and distinguishing `CallByValue` vs `CallByReference`
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java深化**: コンストラクタによるオブジェクト初期化、インスタンス生成、`CallByValue`と`CallByReference`の概念把握
+
+### 2026-03-20
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 응용**: 접근 지정자(private, public 등) 및 제어자 활용, `this` 키워드를 통한 인스턴스 참조 이해
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Application**: Mastering Access Modifiers, Modifiers, and `this` keyword; Building a Music Information System using crawled data
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java応用**: アクセス修飾子、修飾子、`this`キーワードの理解。クローリングデータを活用した音楽情報システムの構築
