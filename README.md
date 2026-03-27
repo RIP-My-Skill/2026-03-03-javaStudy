@@ -105,3 +105,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 심화**: 예외 처리 메커니즘(`try~catch`)의 심화 이해 및 자원 해제를 위한 `finally` 블록 활용 실습
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Deep Dive**: Advanced understanding of Exception Handling and practicing `finally` blocks for resource cleanup
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java深化**: 例外処理メカニズム(`try~catch`)の深い理解およびリソース解放のための`finally`ブロック活用の実習
+
+### 2026-03-27
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 심화**: 예외 처리 마무리 - `try-with-resources`를 통한 자원 자동 해제, 예외 강제 발생(`throw`), 사용자 정의 예외 구현
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Deep Dive**: Finalizing Exception Handling - Auto-resource management via `try-with-resources`, `throw` mechanism, and Custom Exceptions
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java深化**: 例外処理の総まとめ - `try-with-resources`によるリソースの自動解放、例外の強制発生(`throw`)、ユーザー定義例外の実装
