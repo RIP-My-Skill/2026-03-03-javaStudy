@@ -115,3 +115,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 표준 API**: `java.lang` 패키지(Object, String, Math) 학습 및 파일 입출력을 활용한 사원 관리 프로그램 실습
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Standard API**: Mastering `java.lang` (Object, String, Math) and building an Employee Management System using file I/O
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java標準API**: `java.lang`パッケージ(Object, String, Math)の学習およびファイル入出力を活用した社員管理プログラムの実装
+
+### 2026-03-31
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 표준 API**: `java.lang` & `java.util` 심화 (Wrapper, System, StringBuffer, StringTokenizer, 날짜/시간 클래스)
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Standard API**: Advanced `java.lang` & `java.util` (Wrapper, System, StringBuffer, StringTokenizer, Date/Time API)
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java標準API**: `java.lang` & `java.util` 深化 (Wrapper, System, StringBuffer, StringTokenizer, 日付・時間クラス)
