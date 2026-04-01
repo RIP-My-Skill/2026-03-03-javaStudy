@@ -120,3 +120,8 @@
 * <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 표준 API**: `java.lang` & `java.util` 심화 (Wrapper, System, StringBuffer, StringTokenizer, 날짜/시간 클래스)
 * <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Java Standard API**: Advanced `java.lang` & `java.util` (Wrapper, System, StringBuffer, StringTokenizer, Date/Time API)
 * <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java標準API**: `java.lang` & `java.util` 深化 (Wrapper, System, StringBuffer, StringTokenizer, 日付・時間クラス)
+
+### 2026-04-01
+* <img src="https://flagcdn.com/w20/kr.png" width="20" style="vertical-align: middle;"> **자바 고급**: 정규 표현식(Regex)을 활용한 패턴 매칭, 리플렉션(Reflection)을 통한 런타임 객체 분석, 커스텀 어노테이션(Annotation) 설계
+* <img src="https://flagcdn.com/w20/us.png" width="20" style="vertical-align: middle;"> **Advanced Java**: Pattern matching with Regex, runtime object analysis via Reflection, and designing custom Annotations
+* <img src="https://flagcdn.com/w20/jp.png" width="20" style="vertical-align: middle;"> **Java上級**: 正規表現(Regex)を活用したパターンマッチング、リフレクション(Reflection)によるランタイムオブジェクト分析、カスタムアノテーション(Annotation)の設計
