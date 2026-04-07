@@ -97,7 +97,7 @@ public class Lambda_4 {
 				}
 				case 3->{
 					fm.fList.stream()
-						.sorted()
+						.sorted();
 				}
 				default->{
 					System.out.println("없는 메뉴입니다.");
